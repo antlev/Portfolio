@@ -17,9 +17,8 @@ html {
 }
 body {
     font-family:"palatino linotype", palatino, serif;
-    background-image:url(../img/fond_alex.jpeg);
-    background-position:50% 50%;
-    background-attachment:fixed;
+/*    background-image:url(../img/background.jpg);
+    background-position:30% 30%;*/
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
